@@ -1,14 +1,24 @@
-# Aimable Mugwaneza
+<h1 align="center" style="font-size:48px">Aimable Mugwaneza</h1>
 
-![Portfolio Logo](https://raw.githubusercontent.com/AimableMugwaneza/AimableMugwaneza/main/assets/amlogo.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AimableMugwaneza/AimableMugwaneza/main/assets/amlogo.svg" width="250" height="250" alt="Portfolio Logo">
+</p>
 
-## Cloud & DevOps Engineer | Infrastructure Enthusiast
+<h2 align="center" style="font-size:36px">Cloud & DevOps Engineer | Infrastructure Enthusiast</h2>
 
 I'm a soon-to-be Computer Science graduate deeply passionate about **Cloud, DevOps, and Infrastructure Engineering**. What started as curiosity turned into hands-on projects — containerizing apps with Docker, automating deployment with CI/CD pipelines, provisioning infrastructure with Terraform, and securing cloud architectures with best practices.
 
-[![Website](https://img.shields.io/badge/Website-aimablem.dev-0099ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aimablem.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aimablemugwaneza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aimablemugwaneza)
-[![GitHub](https://img.shields.io/badge/GitHub-AimableMugwaneza-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AimableMugwaneza)
+<p align="center">
+  <a href="https://aimablem.dev">
+    <img src="https://img.shields.io/badge/Website-aimablem.dev-0099ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://linkedin.com/in/aimablemugwaneza">
+    <img src="https://img.shields.io/badge/LinkedIn-aimablemugwaneza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/AimableMugwaneza">
+    <img src="https://img.shields.io/badge/GitHub-AimableMugwaneza-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
@@ -108,8 +118,11 @@ I learn best by building, breaking, debugging, and documenting the process. Each
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AimableMugwaneza&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AimableMugwaneza&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AimableMugwaneza&show_icons=true&theme=tokyonight" width="500" alt="GitHub Stats">
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AimableMugwaneza&theme=tokyonight" width="500" alt="GitHub Streak">
+</p>
 
 ---
 
