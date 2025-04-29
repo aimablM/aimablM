@@ -12,10 +12,10 @@ I'm a soon-to-be Computer Science graduate deeply passionate about **Cloud, DevO
   <a href="https://aimablem.dev">
     <img src="https://img.shields.io/badge/Website-aimablem.dev-0099ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://linkedin.com/in/aimablemugwaneza">
+  <a href="https://linkedin.com/in/aimablem">
     <img src="https://img.shields.io/badge/LinkedIn-aimablemugwaneza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/AimableMugwaneza">
+  <a href="https://github.com/aimablm">
     <img src="https://img.shields.io/badge/GitHub-AimableMugwaneza-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
