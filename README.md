@@ -50,6 +50,8 @@ I'm a soon-to-be Computer Science graduate deeply passionate about **Cloud, DevO
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
+I design, build, and deploy secure cloud systems — from Dockerized apps to AWS infrastructure with Terraform and CI/CD. I'm obsessed with system integration, reliability, and documentation that reflects the real-world complexity of infrastructure.
+
 ---
 
 ### Certifications
@@ -91,6 +93,10 @@ Prometheus + Grafana for container metrics, exploring local vs production monito
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aimablm&show_icons=true&theme=radical" width="500">
+</p>
 
 ---
 
