@@ -52,11 +52,11 @@ I'm a soon-to-be Computer Science graduate deeply passionate about **Cloud, DevO
 
 ---
 
-### 🧠 Certifications
-- ✅ AWS Certified Cloud Practitioner (2025)
-- 🛡️ CompTIA Security+ (in progress)
-- 🛠️ Terraform Associate (planned)
-- 📦 AWS Certified Solutions Architect – Associate (planned post-semester)
+### Certifications
+- AWS Certified Cloud Practitioner (2025)
+- CompTIA Security+ (in progress)
+- Terraform Associate (planned)
+- AWS Certified Solutions Architect – Associate (planned post-semester)
 
 ---
 
@@ -115,14 +115,6 @@ Prometheus + Grafana for container metrics, exploring local vs production monito
 
 ### 📚 Learning Style
 I learn best by building, breaking, debugging, and documenting the process. Each project is not just a build — it's a mini-case study I convert into blogs, diagrams, or README breakdowns.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AimableMugwaneza&show_icons=true&theme=tokyonight" width="500" alt="GitHub Stats">
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AimableMugwaneza&theme=tokyonight" width="500" alt="GitHub Streak">
-</p>
 
 ---
 
