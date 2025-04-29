@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size:48px">Aimable Mugwaneza</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AimableMugwaneza/AimableMugwaneza/main/assets/amlogo.svg" width="250" height="250" alt="Portfolio Logo">
+  <img src="/amlogo.svg" width="250" height="250" alt="Portfolio Logo">
 </p>
 
 <h2 align="center" style="font-size:36px">Cloud & DevOps Engineer | Infrastructure Enthusiast</h2>
