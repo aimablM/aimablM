@@ -22,7 +22,7 @@ I'm a soon-to-be Computer Science graduate deeply passionate about **Cloud, DevO
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 #### Cloud & Infrastructure:
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -62,7 +62,7 @@ I design, build, and deploy secure cloud systems — from Dockerized apps to AWS
 
 ---
 
-### 🔧 Featured Projects
+### Featured Projects
 
 #### FlowLedger
 Open-source ERP/CRM fullstack system using MERN stack, Dockerized, CI/CD pipeline, database per service
@@ -96,7 +96,7 @@ Prometheus + Grafana for container metrics, exploring local vs production monito
 
 ---
 
-### ☁️ Current Focus Areas
+### Current Focus Areas
 - Cloud Engineering (AWS core services, IAM, network security)
 - DevOps practices (CI/CD pipelines, logging, automation)
 - Infrastructure as Code (Terraform)
@@ -107,7 +107,7 @@ Prometheus + Grafana for container metrics, exploring local vs production monito
 
 ---
 
-### 🧩 Personal Strengths
+### Personal Strengths
 - **Detail-Oriented**: Obsessively thorough when it comes to system design and architecture
 - **Quick Learner**: Push beyond tutorials to customize and optimize real solutions
 - **Strong Communicator**: Translate technical concepts into clear, accessible explanations
@@ -115,7 +115,7 @@ Prometheus + Grafana for container metrics, exploring local vs production monito
 
 ---
 
-### 📚 Learning Style
+### Learning Style
 I learn best by building, breaking, debugging, and documenting the process. Each project is not just a build — it's a mini-case study I convert into blogs, diagrams, or README breakdowns.
 
 ---
