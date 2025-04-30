@@ -94,10 +94,6 @@ Prometheus + Grafana for container metrics, exploring local vs production monito
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aimablm&show_icons=true&theme=radical" width="500">
-</p>
-
 ---
 
 ### ☁️ Current Focus Areas
@@ -126,8 +122,8 @@ I learn best by building, breaking, debugging, and documenting the process. Each
 
 ### Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aimablemugwaneza)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aimable.mugwaneza@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aimablem)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0099ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aimablem.dev)
 
 Made with ❤️ and modern web technologies
