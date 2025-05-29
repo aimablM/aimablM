@@ -64,35 +64,55 @@ I design, build, and deploy secure cloud systems — from Dockerized apps to AWS
 
 ### Featured Projects
 
-#### FlowLedger
-Open-source ERP/CRM fullstack system using MERN stack, Dockerized, CI/CD pipeline, database per service
+#### 🟢 Secure Cloud Portfolio Website
+Deployed a containerized React portfolio app on AWS EC2 using Terraform, Docker, and CI/CD via GitHub Actions. Features VPC-level security, Route 53 domain routing, NGINX reverse proxy, and HTTPS via Certbot.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+[Live Site](https://aimablem.dev) | [GitHub Repo](https://github.com/aimablM/aimable-myportfoliopage)
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-#### Cloud Portfolio Site
-Deployed on Amplify and EC2 with GitHub Actions, Docker, ECR, custom domain via Route 53
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-#### Spring Boot Microservices Banking App
-Learning and deploying microservices with service registry, API Gateway, Docker, and MySQL
+---
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+#### Monitoring Stack for Cloud Infrastructure
+Production-grade monitoring system using Prometheus, Grafana, Node Exporter, and cAdvisor to monitor EC2 metrics and container health. Exposed via subdomain with HTTPS and auto-restart alerting via CloudWatch.
 
-#### Monitoring Stack Integration
-Prometheus + Grafana for container metrics, exploring local vs production monitoring
+[Live Dashboard](https://monitor.aimablem.dev) | [GitHub Repo](https://github.com/aimablM/grafana-prometheus-monitoring-stack)
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+#### Forever Store – E-Commerce App
+Deployed a fullstack MERN e-commerce app on EC2 using Docker Compose. Configured NGINX reverse proxy, HTTPS with Let’s Encrypt, and wildcard subdomains for secure frontend/backend routing.
+
+ [Live Site](https://forever.aimablem.dev) | [GitHub Repo](https://github.com/aimablM/forever-store-deployment)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+#### FlashLearn – Full Stack Flashcard App
+Custom-built fullstack app with a vanilla JS frontend and Express backend. Dockerized services deployed to EC2, reverse-proxied via NGINX with custom domains and CI/CD pipelines for automated deployments.
+
+ [Live Site](https://flashlearn.aimablem.dev) | [GitHub Repo](https://github.com/aimablM/flashlearn-cloud-infrastructure)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
