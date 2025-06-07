@@ -6,7 +6,7 @@
 
 <h2 align="center" style="font-size:36px">Cloud & DevOps Engineer | Infrastructure Enthusiast</h2>
 
-I'm a soon-to-be Computer Science graduate deeply passionate about **Cloud, DevOps, and Infrastructure Engineering**. What started as curiosity turned into hands-on projects — containerizing apps with Docker, automating deployment with CI/CD pipelines, provisioning infrastructure with Terraform, and securing cloud architectures with best practices.
+I'm a recent computer science graduate deeply passionate about **Cloud, DevOps, and Infrastructure Engineering**. What started as curiosity turned into hands-on projects — containerizing apps with Docker, automating deployment with CI/CD pipelines, provisioning infrastructure with Terraform, and securing cloud architectures with best practices.
 
 <p align="center">
   <a href="https://aimablem.dev">
