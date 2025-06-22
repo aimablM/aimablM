@@ -57,8 +57,8 @@ I design, build, and deploy secure cloud systems — from Dockerized apps to AWS
 ### Certifications
 - AWS Certified Cloud Practitioner (2025)
 - CompTIA Security+ (2025)
-- Terraform Associate (In-progress)
-- AWS Certified Solutions Architect – Associate (planned post-semester)
+- Terraform Associate (Scheduled July)
+- AWS Certified Solutions Architect – Associate (Scheduled June)
 
 ---
 
